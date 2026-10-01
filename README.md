@@ -62,12 +62,9 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhlbrian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhlbrian&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhlbrian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
 <div align="center">
-  <sub>Diseñado con consistencia y código limpio • Tarija / Santa Cruz, Bolivia</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhlbrian&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
 </div>
